@@ -12,7 +12,7 @@ class SampleApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("Sample"),
+          child: Text("Sample 2"),
         ),
       ),
     );
